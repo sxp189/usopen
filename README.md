@@ -1,2 +1,2 @@
-# usopen
-Predict next winner of Men's and Women's Singles Titles in the 2025 US Open
+# Predicting Winners of Men's and Women's Singles matches in the 2025 US Open
+The objective of this project is to develop a machine learning model capable of predicting the outcomes of unseen matches by training on historical match data from the past five years. Once the official draw for the first round of the 2025 US Open Men's and Women's Singles is released, I will collect the relevant data and apply my trained Random Forest Classifier to forecast the winners of each singles match throughout the tournament. Model performance will be evaluated based on its predictive precision during the event.
